@@ -6,7 +6,7 @@
     "type": "sspanel",
     "url": "https://SSPanel.address",
     "key": "SSPanel-Key",
-    "node_ids": [1, 2],
+    "node_ids": [24],
     "nodes_type": ["vmess", "ss"]
   },
   "proxy": {
