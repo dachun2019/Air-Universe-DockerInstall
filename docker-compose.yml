@@ -11,7 +11,7 @@ services:
       - ./cert/:/usr/local/share/au/
       - ./xray-log/xray.log:/var/log/xray.log
   xray-airu:
-    image: teddysun/xray
+    image: nicolay2586945/xray
     container_name: xray-airu
     restart: always
     network_mode: host
